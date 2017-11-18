@@ -2,6 +2,7 @@
 =
 这是BetterQuesting教程的简体中文本地化页面，教程原作者为BetterQuesting作者本人Funwayguy。<br>
 教程本地化作者:Shage_Jack。<br>
+<br>
 授权
 =
 本作品采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议（简体中文）进行许可。协议全文可在此找到。<br>
