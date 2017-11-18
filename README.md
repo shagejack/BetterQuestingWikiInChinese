@@ -1,7 +1,7 @@
 # 使用说明
 这是BetterQuesting教程的简体中文本地化页面，教程原作者为BetterQuesting作者本人Funwayguy。<br>
 教程本地化作者:Shage_Jack。<br>
-教程在当前repository的Wiki内，请直接打开查看<br>
+教程在当前repository的Wiki内，请直接打开查看。<br>
 如翻译存在任何问题(包括但不限于需要更通畅的语句)，请发布Issues。<br>
 <br>
 # 授权
